@@ -1,0 +1,39 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "Learn Redux",
+        "status": false
+      },
+      {
+        "title": "Learn TypeScript",
+        "status": false,
+        "id": 2
+      },
+      {
+        "title": "Banana",
+        "status": false,
+        "id": 3
+      },
+      {
+        "id": 4,
+        "title": "ffa",
+        "status": false
+      },
+      {
+        "id": 5,
+        "title": "fds",
+        "status": false
+      },
+      {
+        "id": 6,
+        "title": "fdsaf",
+        "status": false
+      },
+      {
+        "id": 7,
+        "title": "book",
+        "status": false
+      }
+    ]
+  }
